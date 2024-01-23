@@ -39,3 +39,6 @@ build/
 *.iml
 out
 gen
+.mvn
+test
+
