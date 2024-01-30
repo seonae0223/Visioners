@@ -10,4 +10,5 @@ public class VisionersApplication {
 		SpringApplication.run(VisionersApplication.class, args);
 	}
 
+
 }
